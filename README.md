@@ -1,4 +1,4 @@
-## NASA-SPACE-APPS-CHALLENGE-2022
+## NASA-SPACE-APPS-CHALLENGE-2022 : *Global Finalists Honorable Mentions* 
 ### “The Sun Tracker: a machine learning model that predicts Carrington-like Events using DSCOVR &amp; WIND”
 
 
